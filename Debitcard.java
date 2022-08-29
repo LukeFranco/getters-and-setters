@@ -35,3 +35,9 @@ public class DebitCard{
   public String getExpirationDate(){
     return expirationDate;
   }
+  
+   public String getCVV() {
+    return cvv;
+  }
+
+}
